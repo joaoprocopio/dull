@@ -1,0 +1,7 @@
+id = "dull"
+name = "dull"
+version = "0.0.1"
+schema_version = 1
+authors = ["joaoprocopio <joaovitorcprocopio@gmail.com>"]
+description = "😴💤 the most boring theme that you'll use."
+repository = "https://github.com/joaoprocopio/dull"
